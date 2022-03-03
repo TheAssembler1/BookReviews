@@ -1,0 +1,27 @@
+Chapter Title: Getting Started
+Sections:
+	1.1 About version control
+	1.2 A short history of Git
+	1.3 What is Git
+	1.4 The command line
+	1.5 Installing Git
+	1.6 First-time Git setup
+	1.7 Getting help
+	1.8 Summary
+
+1.1:
+	Talks about what version control is.
+1.2:
+	History is short and sweet not to much info.
+1.3:
+	Talks about how git came to be.
+1.4:
+	Says why we are using the command line and that it is universal.
+1.5:
+	Talks about installing git on a lot of systems.
+1.6:
+	Talks about setting up git config files.
+1.7:
+	Talks about different ways to get help on git commands and an online forum to look for help.
+1.8:
+	Average summary. Don't know why there is a summary.
